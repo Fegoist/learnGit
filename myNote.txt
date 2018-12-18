@@ -5,5 +5,7 @@
 git checkout -- readme.txt
 该命令让这个文件回到最近一次git commit或git add时的状态。
 
-此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
+此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改
+
+git merge命令用于合并指定分支到当前分支。
 
