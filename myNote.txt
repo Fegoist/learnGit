@@ -7,5 +7,7 @@ git checkout -- readme.txt
 
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改
 
+创建+切换分支：git checkout -b <name>
+git branch -d <name>
 git merge命令用于合并指定分支到当前分支。
 
